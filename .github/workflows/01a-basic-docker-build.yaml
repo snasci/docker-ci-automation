@@ -1,6 +1,7 @@
 ---
 name: 01a Basic Docker Build
 # simplest workflow possible
+# newline
 
 on:
   push:
